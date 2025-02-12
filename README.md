@@ -14,3 +14,4 @@ Este projeto utiliza um Raspberry Pi Pico para controlar um servomotor por meio 
 - ```set_duty_cycle(pin, duty_us)```: Ajusta o ciclo de trabalho do PWM para um valor específico.
 
 ## Vídeo demonstração
+https://youtu.be/ajuzEI62q8U
